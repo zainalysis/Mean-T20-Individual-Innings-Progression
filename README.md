@@ -65,6 +65,4 @@ The graph (as shown in the attached image) illustrates the mean runs scored per 
 
 This project provides an insightful analysis of how different T20 cricket batters approach their innings. From the more traditional accumulation to aggressive risk-taking, the graph offers a clear visual comparison between these top players, helping cricket analysts, fans, and coaches understand their strategies.
 
----
 
-This should give you a solid README for your project, detailing its purpose, execution, and results. Let me know if you need any further customization!
